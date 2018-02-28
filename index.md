@@ -17,7 +17,7 @@ and hands-on security challenges! A forum to learn & discuss technical
 SecTalks meetups are about participating in IT security discussions, learning from others, and improving problem-solving skills.
 SecTalks offers an avenue where you can team up with like-minded people to participate in solving technical IT security challenges (i.e. Capture The Flag).
 
-Through SecTalks CTFs, people learn and share solutions. The goal is not to just award winners but to allow people to understand the problems find solutions.
+Through SecTalks CTFs, people learn and share solutions. The goal is not to just award winners, but to allow attendees to understand the problems.
 
 # How
 
